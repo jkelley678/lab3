@@ -1,0 +1,24 @@
+{
+  "name": "lab3-js-oop-dice-docs-and-design",
+  "version": "0.1.0",
+  "description": "dice simulation demonstrating JS OOP, dependency injection, and quality practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkelley678/lab3.git"
+  },
+  "author": "Jackson Kelley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkelley678/lab3/issues"
+  },
+  "homepage": "https://github.com/jkelley678/lab3#readme",
+  "devDependencies": {
+    "eslint": "^9.36.0",
+    "jsdoc": "^4.0.4",
+    "prettier": "^3.6.2"
+  }
+}
